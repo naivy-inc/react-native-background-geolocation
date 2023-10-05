@@ -64,10 +64,10 @@
 // import java.util.List;
 // import java.util.Map;
 
-// /**
+/**
  * Created by chris on 2015-10-30.
  */
-public class RNBackgroundGeolocationModule
+public class RNBackgroundGeolocationModule {
 // extends ReactContextBaseJavaModule implements ActivityEventListener, LifecycleEventListener {
 
 //     private static final String TAG = "TSLocationManager";
